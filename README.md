@@ -10,7 +10,7 @@ Here's the revised version of your profile README with your email included:
   
 - 🤝 **I’m looking to collaborate on:** Real-world data projects that leverage Excel for quick, impactful solutions, developing dashboards for data-driven storytelling, and participating in hackathons or analytics challenges to expand my network and expertise.
   
-- 📬 **How to reach me:** You can connect with me on [LinkedIn](#) or shoot me an email at **nwambugu254@gmail.com**. I'm always open to discussing data-driven strategies, collaboration opportunities, or just exchanging tips and ideas.
+- 📬 **How to reach me:** You can connect with me on [LinkedIn](www.linkedin.com/in/joewambugu) or shoot me an email at **nwambugu254@gmail.com**. I'm always open to discussing data-driven strategies, collaboration opportunities, or just exchanging tips and ideas.
 
 - 🌍 **Pronouns:** He/Him
   
